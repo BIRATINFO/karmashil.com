@@ -17,9 +17,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "DIGITALKOSHI | Digital Archive of Information",
+  title: "KARMASHIL | Digital Archive of Information",
   description: "Digital Archive of Information",
-  metadataBase: new URL('https://digitalkoshi.com'),
+  metadataBase: new URL('https://karmashil.com'),
 };
 
 
